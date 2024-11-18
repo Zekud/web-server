@@ -13,7 +13,7 @@ This is a simple web server built with Node.js and Express. It has three routes 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/basic-web-server.git
+   git clone https://github.com/Zekud/web-server.git
    cd basic-web-server
    ```
 
