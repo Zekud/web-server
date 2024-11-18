@@ -34,4 +34,4 @@ This is a simple web server built with Node.js and Express. It has three routes 
 
 ## Deployment
 
-The server is deployed on [Your Hosting Platform]. You can access it [here](https://web-server-lwgz.onrender.com/).
+The server is deployed on Render. You can access it [here](https://web-server-lwgz.onrender.com/).
